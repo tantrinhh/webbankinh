@@ -1,0 +1,248 @@
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\webbankinh.dll.config
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\webbankinh.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\webbankinh.pdb
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\csc.exe
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\csc.exe.config
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\csc.rsp
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\csi.exe
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\csi.exe.config
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\csi.rsp
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.AppContext.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Console.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.IO.Compression.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Net.Http.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Net.Sockets.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.ValueTuple.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\vbc.exe
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\vbc.exe.config
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\vbc.rsp
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\VBCSCompiler.exe
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\Antlr3.Runtime.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\Newtonsoft.Json.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Helpers.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Mvc.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Optimization.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Razor.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.WebPages.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.WebPages.Razor.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\WebGrease.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Helpers.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Mvc.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Optimization.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.Razor.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.WebPages.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\System.Web.WebPages.Razor.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\Newtonsoft.Json.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\Antlr3.Runtime.pdb
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.CoreCompileInputs.cache
+C:\Users\huynx\source\repos\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.CopyComplete
+C:\Users\huynx\source\repos\webbankinh\webbankinh\obj\Debug\webbankinh.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\obj\Debug\webbankinh.pdb
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\EntityFramework.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\EntityFramework.SqlServer.dll
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\EntityFramework.xml
+C:\Users\huynx\source\repos\webbankinh\webbankinh\bin\EntityFramework.SqlServer.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\webbankinh.dll.config
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\webbankinh.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\webbankinh.pdb
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csc.exe
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csc.exe.config
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csc.rsp
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csi.exe
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csi.exe.config
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csi.rsp
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.AppContext.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Console.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.Compression.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Net.Http.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Net.Sockets.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.ValueTuple.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\vbc.exe
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\vbc.exe.config
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\vbc.rsp
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\VBCSCompiler.exe
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\Antlr3.Runtime.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.SqlServer.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\Newtonsoft.Json.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Helpers.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Mvc.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Optimization.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Razor.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Razor.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\WebGrease.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.SqlServer.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Helpers.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Mvc.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Optimization.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Razor.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Razor.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\Newtonsoft.Json.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\Antlr3.Runtime.pdb
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.AssemblyReference.cache
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.CoreCompileInputs.cache
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.CopyComplete
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.dll
+C:\Users\xuanh\OneDrive\Máy tính\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.pdb
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\webbankinh.dll.config
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\webbankinh.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\webbankinh.pdb
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csc.exe
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csc.exe.config
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csc.rsp
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csi.exe
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csi.exe.config
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\csi.rsp
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.AppContext.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Console.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Net.Http.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\vbc.exe
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\vbc.exe.config
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\vbc.rsp
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\Antlr3.Runtime.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.SqlServer.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\Newtonsoft.Json.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Helpers.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Mvc.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Optimization.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Razor.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\WebGrease.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\EntityFramework.SqlServer.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Helpers.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Mvc.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Optimization.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.Razor.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\Newtonsoft.Json.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\Antlr3.Runtime.pdb
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.AssemblyReference.cache
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.CoreCompileInputs.cache
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.csproj.CopyComplete
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.dll
+C:\Users\Pensando\OneDrive\Máy tính\webbankinhl2\webbankinhl2\webbankinh\webbankinh\obj\Debug\webbankinh.pdb

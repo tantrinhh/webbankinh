@@ -1,0 +1,139 @@
+﻿@model webbankinh.Context.product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>chi tiết</h2>
+
+<div>
+    <h4>product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.avatar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.avatar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.categoryid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.categoryid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.shortdes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.shortdes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fulldescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fulldescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pricediscount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pricediscount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.typeld)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.typeld)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.slug)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.slug)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.brandid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.brandid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.deleted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.deleted)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.showonhomepage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.showonhomepage)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.displayoder)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.displayoder)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.createonutc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.createonutc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.updateonutc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.updateonutc)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("trở về", "Index")
+</p>

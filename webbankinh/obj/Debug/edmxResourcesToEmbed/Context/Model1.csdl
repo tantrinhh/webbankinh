@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="webbankinhModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="brand">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="avatar" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="slug" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="showonhompage" Type="Boolean" />
+    <Property Name="displayoder" Type="Int32" />
+    <Property Name="createutc" Type="DateTime" Precision="3" />
+    <Property Name="updataeonutc" Type="DateTime" Precision="3" />
+    <Property Name="deleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="avatar" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="slug" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="showonhomepage" Type="Boolean" />
+    <Property Name="displayoder" Type="Int32" />
+    <Property Name="deleted" Type="Boolean" />
+    <Property Name="createonutc" Type="DateTime" Precision="3" />
+    <Property Name="updateonrutc" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="order">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="product" Type="Int32" />
+    <Property Name="price" Type="Double" />
+    <Property Name="status" Type="Int32" />
+    <Property Name="createonutc" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="avatar" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="categoryid" Type="Int32" />
+    <Property Name="shortdes" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="fulldescription" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="price" Type="Double" />
+    <Property Name="pricediscount" Type="Double" />
+    <Property Name="typeld" Type="Int32" />
+    <Property Name="slug" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="brandid" Type="Int32" />
+    <Property Name="deleted" Type="Boolean" />
+    <Property Name="showonhomepage" Type="Boolean" />
+    <Property Name="displayoder" Type="Int32" />
+    <Property Name="createonutc" Type="DateTime" Precision="3" />
+    <Property Name="updateonutc" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="ho" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ten" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="isadmin" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="webbankinhEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="brands" EntityType="Self.brand" />
+    <EntitySet Name="categories" EntityType="Self.category" />
+    <EntitySet Name="orders" EntityType="Self.order" />
+    <EntitySet Name="products" EntityType="Self.product" />
+    <EntitySet Name="users" EntityType="Self.user" />
+  </EntityContainer>
+</Schema>

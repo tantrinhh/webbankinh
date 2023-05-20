@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="webbankinhModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="brand">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" />
+    <Property Name="avatar" Type="nvarchar" MaxLength="100" />
+    <Property Name="slug" Type="nchar" MaxLength="100" />
+    <Property Name="showonhompage" Type="bit" />
+    <Property Name="displayoder" Type="int" />
+    <Property Name="createutc" Type="datetime" />
+    <Property Name="updataeonutc" Type="datetime" />
+    <Property Name="deleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" />
+    <Property Name="avatar" Type="nchar" MaxLength="100" />
+    <Property Name="slug" Type="varchar" MaxLength="100" />
+    <Property Name="showonhomepage" Type="bit" />
+    <Property Name="displayoder" Type="int" />
+    <Property Name="deleted" Type="bit" />
+    <Property Name="createonutc" Type="datetime" />
+    <Property Name="updateonrutc" Type="datetime" />
+  </EntityType>
+  <EntityType Name="order">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" />
+    <Property Name="product" Type="int" />
+    <Property Name="price" Type="float" />
+    <Property Name="status" Type="int" />
+    <Property Name="createonutc" Type="datetime" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" />
+    <Property Name="avatar" Type="nchar" MaxLength="100" />
+    <Property Name="categoryid" Type="int" />
+    <Property Name="shortdes" Type="nvarchar" MaxLength="100" />
+    <Property Name="fulldescription" Type="nvarchar" MaxLength="100" />
+    <Property Name="price" Type="float" />
+    <Property Name="pricediscount" Type="float" />
+    <Property Name="typeld" Type="int" />
+    <Property Name="slug" Type="varchar" MaxLength="50" />
+    <Property Name="brandid" Type="int" />
+    <Property Name="deleted" Type="bit" />
+    <Property Name="showonhomepage" Type="bit" />
+    <Property Name="displayoder" Type="int" />
+    <Property Name="createonutc" Type="datetime" />
+    <Property Name="updateonutc" Type="datetime" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="ho" Type="varchar" MaxLength="50" />
+    <Property Name="ten" Type="varchar" MaxLength="50" />
+    <Property Name="email" Type="varchar" MaxLength="50" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+    <Property Name="isadmin" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="webbankinhModelStoreContainer">
+    <EntitySet Name="brand" EntityType="Self.brand" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="category" EntityType="Self.category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="order" EntityType="Self.order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="product" EntityType="Self.product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
